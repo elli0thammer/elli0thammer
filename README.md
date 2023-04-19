@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Elizabeth
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
 
-<!--
-**elli0thammer/elli0thammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=React+developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h3>My Stats:</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=elli0thammer&theme=tokyonight-duo&locale=ru)](https://git.io/streak-stats)
+
+</div>
