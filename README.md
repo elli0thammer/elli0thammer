@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-<h3 style="display: inline">&nbsp; React-developer &nbsp;</h3>
+<span style="font-size: 25px">&nbsp; React-developer &nbsp;</span>
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </div>
