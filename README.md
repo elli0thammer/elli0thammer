@@ -2,7 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=React+developer)](https://git.io/typing-svg)
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+<h3 style="display: inline">&nbsp; React-developer &nbsp;</h3>
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </div>
 
